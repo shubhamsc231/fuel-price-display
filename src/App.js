@@ -1,6 +1,6 @@
 import './App.css';
 import FuelDisplay from './components/FuelDisplay/FuelDisplay';
-import MainPage from './components/MainPage/MainPage';
+//import MainPage from './components/MainPage/MainPage';
 
 function App() {
   return (
